@@ -1,0 +1,16 @@
+fbstate.json
+package-lock.json
+envConfig.json
+.env
+.npm
+*.tgz
+*.mp3
+*.mp4
+*.png
+*.gif
+node_modules/
+logs/
+script/cache/
+script/events/cache/
+app/database/threads.json
+app/database/users.json
