@@ -1,0 +1,2447 @@
+{
+  "4608052682584253": {
+    "id": "4608052682584253",
+    "name": "lawerteam",
+    "emoji": "😃",
+    "prefix": null,
+    "language": "en_US.loli",
+    "members": {
+      "100004253741257": {
+        "id": "100004253741257",
+        "name": "Phạm Văn Diện",
+        "nickname": "lỏ lỏ",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100006622276498": {
+        "id": "100006622276498",
+        "name": "Hoàng Đỗ Gia Nguyên",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100007450141047": {
+        "id": "100007450141047",
+        "name": "Nguyễn Mạnh ",
+        "nickname": "[ ^ ] • LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100018806512683": {
+        "id": "100018806512683",
+        "name": "Lê Chính",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100023619860498": {
+        "id": "100023619860498",
+        "name": "Hoàng Khoa",
+        "nickname": "🙀❌🙀🐸❌🐸",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100034097061553": {
+        "id": "100034097061553",
+        "name": "Nguyễn Mạnh",
+        "nickname": "[ ! ] • LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100038257713350": {
+        "id": "100038257713350",
+        "name": "Nguyễn Mạnh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100038379006171": {
+        "id": "100038379006171",
+        "name": "Mạnh’G",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100041584985686": {
+        "id": "100041584985686",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100048593391564": {
+        "id": "100048593391564",
+        "name": "Le Chinh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100049373803252": {
+        "id": "100049373803252",
+        "name": "Nguyễn Đức Thắng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100056992160405": {
+        "id": "100056992160405",
+        "name": "Thiệu Trung Kiên",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100057314041641": {
+        "id": "100057314041641",
+        "name": "Đăng Dương",
+        "nickname": "lawerbot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068432539116": {
+        "id": "100068432539116",
+        "name": "Phạm Văn Diện",
+        "nickname": "[ ! ] • Bot Messenger",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100070052890137": {
+        "id": "100070052890137",
+        "name": "Người dùng Facebook",
+        "nickname": "lỏ lỏ lỏ",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100070796494583": {
+        "id": "100070796494583",
+        "name": "Thiệu Trung Kiên",
+        "nickname": "LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074474806537": {
+        "id": "100074474806537",
+        "name": "Đồng Văn Toàn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      }
+    },
+    "adminIDs": [
+      "100006622276498",
+      "100018806512683",
+      "100038379006171",
+      "100056992160405",
+      "100070052890137",
+      "100070796494583"
+    ],
+    "approvalMode": false,
+    "status": true,
+    "banned": {
+      "status": false,
+      "reason": null,
+      "time": null
+    },
+    "data": {
+      "onlyQTV": false
+    },
+    "avatar": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.15752-9/270519295_614634752952037_9080136463170938557_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=02e273&_nc_ohc=8xZOSPC6MocAX-5543L&tn=MlKP_qxiiGfBFSyn&_nc_ht=scontent-ort2-1.xx&oh=03_AVKSwBVyU9zvyz4_irdnVeNxam8S_WNdj8F9t4Irtd83wg&oe=621EDD60"
+  },
+  "4144697085628788": {
+    "id": "4144697085628788",
+    "name": "𝗟𝗘𝗩𝗘𝗦𝗧𝗥𝗜𝗔'𝗢 : 𝗠𝗔𝗜𝗡 1",
+    "emoji": "🍄",
+    "prefix": null,
+    "language": null,
+    "members": {
+      "100023896622584": {
+        "id": "100023896622584",
+        "name": "Hanna Enriquez",
+        "nickname": "𝙃𝘼𝙉𝙉𝘼/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100040915864416": {
+        "id": "100040915864416",
+        "name": "Phạm Hoàng Yến",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100053229858093": {
+        "id": "100053229858093",
+        "name": "Jane Cabelo",
+        "nickname": "𝙅𝘼𝙉𝙀/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100056416240211": {
+        "id": "100056416240211",
+        "name": "Dion Holter",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100056492654216": {
+        "id": "100056492654216",
+        "name": "Serene Cabelo",
+        "nickname": "𝙎𝙀𝙍𝙀𝙉𝙀/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100060427725722": {
+        "id": "100060427725722",
+        "name": "Người dùng Facebook",
+        "nickname": "𝙎𝙃𝘼𝙍𝙈𝘼𝙄𝙉𝙀/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100062306542539": {
+        "id": "100062306542539",
+        "name": "Choi I'gop",
+        "nickname": "Xhoi co powder😵",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100064902263063": {
+        "id": "100064902263063",
+        "name": "Kaizen Eryx",
+        "nickname": "𝙆𝘼𝙄𝙕𝙀𝙉/𝙁𝙊𝙐𝙉𝘿𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100064903013076": {
+        "id": "100064903013076",
+        "name": "Ychi Dutch",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100065324111578": {
+        "id": "100065324111578",
+        "name": "Rianna Eirah Sashiki",
+        "nickname": "𝙍𝙄𝘼𝙉𝙉𝘼/𝙋𝙐𝙉𝙄𝙎𝙃𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100066995673785": {
+        "id": "100066995673785",
+        "name": "Jäņë Đümp",
+        "nickname": "𝙇𝙊𝙍𝙍𝙀𝙉/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100067154692188": {
+        "id": "100067154692188",
+        "name": "Ryl Jsjxi",
+        "nickname": "pogi na panget (kio)",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100067427591590": {
+        "id": "100067427591590",
+        "name": "Park Dojin",
+        "nickname": "𝙄𝙕𝙐𝙆𝙐/𝙃𝘼𝙉𝘿𝙇𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068432539116": {
+        "id": "100068432539116",
+        "name": "Phạm Văn Diện",
+        "nickname": "[ = ] • Bot Messenger",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068673482495": {
+        "id": "100068673482495",
+        "name": "Rajj Ocheo",
+        "nickname": "tite",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100069351695145": {
+        "id": "100069351695145",
+        "name": "Yvaine Wylkn Texon",
+        "nickname": "𝙈𝘼𝙓𝙄𝙉𝙀/𝘾𝙊-𝙁𝙊𝙐𝙉𝘿𝙍𝙀𝙎𝙎",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100070959153845": {
+        "id": "100070959153845",
+        "name": "Aeris Luxwell",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100071393115265": {
+        "id": "100071393115265",
+        "name": "Kib Synx",
+        "nickname": "Ginisa Mixed",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100071403732585": {
+        "id": "100071403732585",
+        "name": "Yaji Rjæstad",
+        "nickname": "Bayot po aq",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100071606525623": {
+        "id": "100071606525623",
+        "name": "Kheila Trexicana",
+        "nickname": "tanga ka.",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072244100768": {
+        "id": "100072244100768",
+        "name": "Lj Smith",
+        "nickname": "𝙇𝙀𝙓𝙄/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072390414608": {
+        "id": "100072390414608",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072442550326": {
+        "id": "100072442550326",
+        "name": "Kofi Uchija",
+        "nickname": "𝙏𝙍𝙄𝙑𝙄𝘾𝘼/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072592615239": {
+        "id": "100072592615239",
+        "name": "Nïcø Clåxtøn",
+        "nickname": "BØGÅRT x BÊRTØ",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100073130954255": {
+        "id": "100073130954255",
+        "name": "Yeji Hahs",
+        "nickname": "𝙀𝙇𝙔𝙎𝙀/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100073246341111": {
+        "id": "100073246341111",
+        "name": "Sage Y'xuplada",
+        "nickname": "Ganda lang ambag😭👍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074152863042": {
+        "id": "100074152863042",
+        "name": "Kz Hwksja",
+        "nickname": "𝙔𝘾𝘼/𝙃𝙀𝘼𝘿",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074508042746": {
+        "id": "100074508042746",
+        "name": "Yxa Nyx",
+        "nickname": "𝙔𝙓𝘼 (material gworl 💅😋)",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074595677051": {
+        "id": "100074595677051",
+        "name": "Moon Yumina",
+        "nickname": "𝙈𝙊𝙊𝙉/𝙀𝙇𝘿𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074672617579": {
+        "id": "100074672617579",
+        "name": "Hiếu Phạm",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100075117052483": {
+        "id": "100075117052483",
+        "name": "Phạm Tuấn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100075529923187": {
+        "id": "100075529923187",
+        "name": "Isaac Hawking's",
+        "nickname": "𝙆𝙄𝘼/𝙈𝙀𝙈𝘽𝙀𝙍",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076486524745": {
+        "id": "100076486524745",
+        "name": "Keila P'rtty",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076936774675": {
+        "id": "100076936774675",
+        "name": "Kim Prtty",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076988752908": {
+        "id": "100076988752908",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100077282102974": {
+        "id": "100077282102974",
+        "name": "Celestine Frevexia",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100077285524970": {
+        "id": "100077285524970",
+        "name": "Kiva Trexicana Giana Ochea",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100077353826991": {
+        "id": "100077353826991",
+        "name": "Rianne Haha",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100077440090053": {
+        "id": "100077440090053",
+        "name": "Joanna P'rtty",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100077693109041": {
+        "id": "100077693109041",
+        "name": "Athenna Wix",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      }
+    },
+    "adminIDs": [
+      "100067154692188",
+      "100069351695145",
+      "100071403732585",
+      "100072592615239",
+      "100073246341111",
+      "100077353826991"
+    ],
+    "approvalMode": true,
+    "status": true,
+    "banned": {
+      "status": false,
+      "reason": null,
+      "time": null
+    },
+    "data": {
+      "onlyQTV": false
+    },
+    "avatar": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.15752-9/248255026_324413199236730_1094320544586950742_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=02e273&_nc_ohc=gtpOPgW-BdwAX9TaRuJ&_nc_ht=scontent-ort2-1.xx&oh=03_AVJrdQ-0FQbfLt00FbTWMppokt69_txTjdaH8YE812n6Ug&oe=621E5103"
+  },
+  "4699974660120426": {
+    "id": "4699974660120426",
+    "name": "ảnh chàng booking depzai",
+    "emoji": "😒",
+    "prefix": null,
+    "language": null,
+    "members": {
+      "621171051": {
+        "id": "621171051",
+        "name": "Nguyễn Mạnh Khoa",
+        "nickname": "gei lỏ Nguyễn Mạnh Khoa",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "1025220090": {
+        "id": "1025220090",
+        "name": "Nguyên Khangg",
+        "nickname": "cc3 Nguyen Huy Hoang",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100000326825858": {
+        "id": "100000326825858",
+        "name": "Nguyễn Huy Hoàng",
+        "nickname": "cặc lỏ Nguyễn Huy Hoàng",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100000457647185": {
+        "id": "100000457647185",
+        "name": "Văn Lộc",
+        "nickname": "cặc lỏ Văn Lộc",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100001521739954": {
+        "id": "100001521739954",
+        "name": "Hoàng Khoa",
+        "nickname": "cặc lỏ Hoàng Khoa",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100002484919754": {
+        "id": "100002484919754",
+        "name": "Văn Lộc",
+        "nickname": "[ / ] • 𝒑𝒆𝒏𝒈𝒖𝒊𝒏-𝒃𝒐𝒕🐧",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100002970913448": {
+        "id": "100002970913448",
+        "name": "Bùi Văn Lượng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100003127140455": {
+        "id": "100003127140455",
+        "name": "Hoàng Nam",
+        "nickname": "lmeo gei lỏ Hoàng Nam",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100004253741257": {
+        "id": "100004253741257",
+        "name": "Phạm Văn Diện",
+        "nickname": "cặc lỏ Phạm Văn Diện",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100006622276498": {
+        "id": "100006622276498",
+        "name": "Hoàng Đỗ Gia Nguyên",
+        "nickname": "Chồng của Nguyen Huy Hoang ❤️",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100012371343281": {
+        "id": "100012371343281",
+        "name": "Việt Lê",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100013602340331": {
+        "id": "100013602340331",
+        "name": "Nguyễn Thành Nhân",
+        "nickname": "cặc lỏ Nguyễn Thành Nhân",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100017608866967": {
+        "id": "100017608866967",
+        "name": "Le Thanh Thien",
+        "nickname": "cặc lỏ Le Thanh Thien",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100023619860498": {
+        "id": "100023619860498",
+        "name": "Hoàng Khoa",
+        "nickname": "iu Changg ứa🙀",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100025052504299": {
+        "id": "100025052504299",
+        "name": "Như Hạnh",
+        "nickname": "tuyển ny",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100025536690946": {
+        "id": "100025536690946",
+        "name": "Thắng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100028172778861": {
+        "id": "100028172778861",
+        "name": "Ngô Ng B. Duyên",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100034495609327": {
+        "id": "100034495609327",
+        "name": "Trần Đức Duy",
+        "nickname": "thống trị lồn em",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100037565140766": {
+        "id": "100037565140766",
+        "name": "Nguyễn Phạm Anh Khoa",
+        "nickname": "cc3 Nguyễn Phạm Anh Khoa",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100038379006171": {
+        "id": "100038379006171",
+        "name": "Mạnh’G",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100047993302072": {
+        "id": "100047993302072",
+        "name": "Nguyễn Tấn Hoàng",
+        "nickname": "gei lỏ Nguyễn Tấn Hoàng",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100048929838147": {
+        "id": "100048929838147",
+        "name": "Tuan Khai",
+        "nickname": "lỏ lỏ Tuan Khai",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100050644054380": {
+        "id": "100050644054380",
+        "name": "Nguyễn Huy Hoàng",
+        "nickname": "prefix ?",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100051638101791": {
+        "id": "100051638101791",
+        "name": "Tan Dung Nguyen",
+        "nickname": "cc3 Tan Dung Nguyen",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100052165480842": {
+        "id": "100052165480842",
+        "name": "Bùi Nguyễn Ngọc Lan",
+        "nickname": "Buồn tình",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100056967570124": {
+        "id": "100056967570124",
+        "name": "Phuong Anh",
+        "nickname": "cặc lỏ Phuong Anh",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100056992160405": {
+        "id": "100056992160405",
+        "name": "Thiệu Trung Kiên",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100057314041641": {
+        "id": "100057314041641",
+        "name": "Đăng Dương",
+        "nickname": "[ . ] • Shiron",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100057804930587": {
+        "id": "100057804930587",
+        "name": "Con Cu Siu To",
+        "nickname": "lmeo gei lỏ Con Cu Ti Hon",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100058513105624": {
+        "id": "100058513105624",
+        "name": "Tien Nguyen",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100059118957285": {
+        "id": "100059118957285",
+        "name": "HT Ngọc Quý",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100060894693968": {
+        "id": "100060894693968",
+        "name": "Minh'ss Tiến'ss",
+        "nickname": "Tờ Tôm",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100067668242926": {
+        "id": "100067668242926",
+        "name": "Cơm Rang Dưa Hấu",
+        "nickname": "lỏ lỏ Cơm Rang Dưa Hấu",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068290447157": {
+        "id": "100068290447157",
+        "name": "や あ",
+        "nickname": "co em ngay nao cung nung",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068432539116": {
+        "id": "100068432539116",
+        "name": "Phạm Văn Diện",
+        "nickname": "gei lỏ Phạm Văn Diện",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100069584261811": {
+        "id": "100069584261811",
+        "name": "Trần Thanh Vy",
+        "nickname": "Gâu Gâu Gâu Gâu Gâu",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100070829826435": {
+        "id": "100070829826435",
+        "name": "Nguyễn Thái Sang",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100073726955412": {
+        "id": "100073726955412",
+        "name": "Irene Manusig",
+        "nickname": "tui bị bay acc",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076633544820": {
+        "id": "100076633544820",
+        "name": "Nhi Trương",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100077351910589": {
+        "id": "100077351910589",
+        "name": "Ngô Thanh Vân",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      }
+    },
+    "adminIDs": [
+      "100000326825858",
+      "100006622276498",
+      "100012371343281",
+      "100023619860498"
+    ],
+    "approvalMode": true,
+    "status": true,
+    "banned": {
+      "status": false,
+      "reason": null,
+      "time": null
+    },
+    "data": {
+      "onlyQTV": false
+    },
+    "avatar": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.15752-9/271525199_457319289190246_7674873256690536735_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=02e273&_nc_ohc=iVY4YF-GYUQAX_5Be1v&_nc_ht=scontent-ort2-1.xx&oh=03_AVI6YFfZe4jbNlHS73xApOMstNE7HOuscQ_ch-qrRvvPRQ&oe=621F97B5"
+  },
+  "4044824402267493": {
+    "id": "4044824402267493",
+    "name": "Quán Rượu Của Hỏrnies",
+    "emoji": "🐯",
+    "prefix": null,
+    "language": null,
+    "members": {
+      "100001375602618": {
+        "id": "100001375602618",
+        "name": "Quyen Trang Cong",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100004913766202": {
+        "id": "100004913766202",
+        "name": "Thanh Ha Le",
+        "nickname": "cô gái trẻ đã gửi hình ảnh",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100006565233579": {
+        "id": "100006565233579",
+        "name": "Minh Trí Nguyễn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100007211324626": {
+        "id": "100007211324626",
+        "name": "Tran Duy",
+        "nickname": "Duy Tran",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009400940586": {
+        "id": "100009400940586",
+        "name": "Hoài Phong",
+        "nickname": "Uncle Jay 🍆",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009699030524": {
+        "id": "100009699030524",
+        "name": "Dươngg Lùnn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009800464344": {
+        "id": "100009800464344",
+        "name": "Rouise Rou",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100010337734344": {
+        "id": "100010337734344",
+        "name": "Nguyễn Duy",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100011213201298": {
+        "id": "100011213201298",
+        "name": "Phương Đông",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100012257535923": {
+        "id": "100012257535923",
+        "name": "Gia Huy",
+        "nickname": "dịch loz ở nhà chán bomie",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100012809468242": {
+        "id": "100012809468242",
+        "name": "Min Baka",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100013006547946": {
+        "id": "100013006547946",
+        "name": "Phạm Quốc Đạt",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100022923534296": {
+        "id": "100022923534296",
+        "name": "Huy Owo",
+        "nickname": "Huy Owo đã xóa bạn ra khỏi nhóm",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100024091624578": {
+        "id": "100024091624578",
+        "name": "Ngọc Lê Tài",
+        "nickname": "ôn thi năm cuối, miễn lọc pls 😅",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100024157717147": {
+        "id": "100024157717147",
+        "name": "Huyy",
+        "nickname": "Huyy: tui xin out gr vô thời hạn nha",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100025201141143": {
+        "id": "100025201141143",
+        "name": "Minh Quang",
+        "nickname": "mon ko quen người lạ",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100026134185675": {
+        "id": "100026134185675",
+        "name": "Namihira Kousuke",
+        "nickname": "simp lỏd pảk leo Namihira Kousuke",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100028814839910": {
+        "id": "100028814839910",
+        "name": "Ankou Kagami",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100029569481779": {
+        "id": "100029569481779",
+        "name": "Liao Tian",
+        "nickname": "Ụ ná thở Lin-hu",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100031989133350": {
+        "id": "100031989133350",
+        "name": "Lee Vg",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100032228225838": {
+        "id": "100032228225838",
+        "name": "Kuka Alok",
+        "nickname": "ác mộng dừa khô 🤰",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100033831336596": {
+        "id": "100033831336596",
+        "name": "Tomeo Đang Lười",
+        "nickname": "Đi tu cai nghiện F4p",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100037207246764": {
+        "id": "100037207246764",
+        "name": "Vo The Tai",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100037932094463": {
+        "id": "100037932094463",
+        "name": "Kidori Rato Tatsuki",
+        "nickname": "Humu vốn sẵm tính tr, ai mà có mún vui lòng ib 😛",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100038242270325": {
+        "id": "100038242270325",
+        "name": "Đặng Ngọc Phước",
+        "nickname": "I🧡Glamrock Freddy💙",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100040327070530": {
+        "id": "100040327070530",
+        "name": "Yuu Shiori",
+        "nickname": "shiori chill 💤",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100040739863585": {
+        "id": "100040739863585",
+        "name": "Vũ Thiên",
+        "nickname": "Boku no chico :v",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100041761840982": {
+        "id": "100041761840982",
+        "name": "Leo Park",
+        "nickname": "Ganyu go go brbr ❄😘",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100041862863254": {
+        "id": "100041862863254",
+        "name": "Gọi Là Bé Thỏ",
+        "nickname": "Bà tiên Thỏ xuất hiện, phán rằng:",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100042215041460": {
+        "id": "100042215041460",
+        "name": "Ngọc Dũng",
+        "nickname": "Ng trong sáng nhất gr  🤤 chuyên gia ẩm thực 🌭",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100042313140136": {
+        "id": "100042313140136",
+        "name": "Nguyễn Dio",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100045986657409": {
+        "id": "100045986657409",
+        "name": "Bé Sâu",
+        "nickname": "pet của cả gr :Đ",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100047344832731": {
+        "id": "100047344832731",
+        "name": "Bakemono San",
+        "nickname": "Bake \"Sống Vì Ciu\"",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100048130805489": {
+        "id": "100048130805489",
+        "name": "Ơi Người Lạ",
+        "nickname": "Thưn thịn 👁️👄👁️✨",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100049614153107": {
+        "id": "100049614153107",
+        "name": "Bùi Hà Phúc",
+        "nickname": "con đĩ quê mùa 😛💅👌",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100053307094380": {
+        "id": "100053307094380",
+        "name": "Nguyễn Bách",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100054897009717": {
+        "id": "100054897009717",
+        "name": "Zzúii KaKao",
+        "nickname": "Zúi Đã Hi Sinh Anh Zũng Ở Day 4",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100055088162740": {
+        "id": "100055088162740",
+        "name": "David Bear",
+        "nickname": "tối cổ :D.",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100055991571717": {
+        "id": "100055991571717",
+        "name": "Muito Kozuki",
+        "nickname": "bạn đẹp trai....send nude cho tớ nhá :33 <3",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100056996476831": {
+        "id": "100056996476831",
+        "name": "Nghĩa Lê",
+        "nickname": "likulau ck mị nha mấy đứa",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100058036519480": {
+        "id": "100058036519480",
+        "name": "Tanaka Itou",
+        "nickname": "Kôn Chúă Xêng Địp Tuỵt Zời",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100063807020995": {
+        "id": "100063807020995",
+        "name": "Sin Ao",
+        "nickname": "sin ắc quy 😈",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100067840740643": {
+        "id": "100067840740643",
+        "name": "Gia Bảo Nguyễn",
+        "nickname": "Ngươi nghĩ ta là Bảo sao ! HoHo ta là Gen",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068355591664": {
+        "id": "100068355591664",
+        "name": "Nasus Hou",
+        "nickname": "Ăn dao vô mỏ nha 🥺🔪",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068432539116": {
+        "id": "100068432539116",
+        "name": "Phạm Văn Diện",
+        "nickname": "[ = ] • Bot Messenger",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068636619030": {
+        "id": "100068636619030",
+        "name": "Trần Hải",
+        "nickname": "Hải ăn 💩🐷",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068938955469": {
+        "id": "100068938955469",
+        "name": "Kagamine Setsuko",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072269721846": {
+        "id": "100072269721846",
+        "name": "Huynh Khai",
+        "nickname": "Nam mô lạ y hồn đừng bay acc",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072748465717": {
+        "id": "100072748465717",
+        "name": "Zen Haru",
+        "nickname": "Zen_Chan",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074014927061": {
+        "id": "100074014927061",
+        "name": "Nawen Ame",
+        "nickname": "Leo",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074590718383": {
+        "id": "100074590718383",
+        "name": "Anhkhoa Nguyen",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074665235166": {
+        "id": "100074665235166",
+        "name": "Desserts Deceiving",
+        "nickname": "Iku Iku",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074744932867": {
+        "id": "100074744932867",
+        "name": "Shion Clover",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100075306926015": {
+        "id": "100075306926015",
+        "name": "Vis Ngáo",
+        "nickname": "OwO",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076627953302": {
+        "id": "100076627953302",
+        "name": "Ashagiri Gen",
+        "nickname": "Ngươi nghĩ ta là Bảo sao HoHo ta là Bảo :>",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      }
+    },
+    "adminIDs": [
+      "100009400940586",
+      "100010337734344",
+      "100024157717147",
+      "100025201141143",
+      "100041761840982",
+      "100053307094380",
+      "100056996476831",
+      "100068355591664"
+    ],
+    "approvalMode": true,
+    "status": true,
+    "banned": {
+      "status": false,
+      "reason": null,
+      "time": null
+    },
+    "data": {
+      "onlyQTV": false
+    },
+    "avatar": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.15752-9/272129693_355953132736526_524643233986741913_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=02e273&_nc_ohc=5lsGdvcxn5UAX_LCPhX&_nc_ht=scontent-ort2-1.xx&oh=03_AVJrLgw_zYbGBfrr3yPfvx3uM22puO5LWKghlWrdlOM-AQ&oe=621EA90A"
+  },
+  "6767952666579744": {
+    "id": "6767952666579744",
+    "name": "[Helper] - LawerBot",
+    "emoji": "🌚",
+    "prefix": null,
+    "language": null,
+    "members": {
+      "1234": {
+        "id": "1234",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "670508081": {
+        "id": "670508081",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "1459008651": {
+        "id": "1459008651",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "1628097188": {
+        "id": "1628097188",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100004253741257": {
+        "id": "100004253741257",
+        "name": "Phạm Văn Diện",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100006622276498": {
+        "id": "100006622276498",
+        "name": "Hoàng Đỗ Gia Nguyên",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100007450141047": {
+        "id": "100007450141047",
+        "name": "Nguyễn Mạnh ",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100007887640086": {
+        "id": "100007887640086",
+        "name": "Ngon Nguyen",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100007922737857": {
+        "id": "100007922737857",
+        "name": "Hoàng Văn Cường",
+        "nickname": "money me 9999999999",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100008374389509": {
+        "id": "100008374389509",
+        "name": "️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009355185480": {
+        "id": "100009355185480",
+        "name": "Nguyễn Đức Hiếu",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009568302145": {
+        "id": "100009568302145",
+        "name": "Minh Khương",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100010567789005": {
+        "id": "100010567789005",
+        "name": "Mạnh Nguyễn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100011560004360": {
+        "id": "100011560004360",
+        "name": "Ma Văn Des",
+        "nickname": "Mei Chou",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100012371343281": {
+        "id": "100012371343281",
+        "name": "Việt Lê",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100018806512683": {
+        "id": "100018806512683",
+        "name": "Lê Chính",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100023619860498": {
+        "id": "100023619860498",
+        "name": "Hoàng Khoa",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100034097061553": {
+        "id": "100034097061553",
+        "name": "Nguyễn Mạnh",
+        "nickname": "[ ! ] • LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100038257713350": {
+        "id": "100038257713350",
+        "name": "Nguyễn Mạnh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100038379006171": {
+        "id": "100038379006171",
+        "name": "Mạnh’G",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100039208597307": {
+        "id": "100039208597307",
+        "name": "Hoàng Linh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100041132082006": {
+        "id": "100041132082006",
+        "name": "Lê Đức       Chính             \\٠\\        ⓪⑦❾⑥⓪⑦❻⓪②❽۝",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100042701711229": {
+        "id": "100042701711229",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100042965476833": {
+        "id": "100042965476833",
+        "name": "Trần Văn Nhất",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100044203742700": {
+        "id": "100044203742700",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100048509610460": {
+        "id": "100048509610460",
+        "name": "Nguyễn Thanh Chính",
+        "nickname": "Citnut (coder)",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100048593391564": {
+        "id": "100048593391564",
+        "name": "Le Chinh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100048991791143": {
+        "id": "100048991791143",
+        "name": "Lê Năng Hoàng Đức",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100050324032748": {
+        "id": "100050324032748",
+        "name": "S̵̢̢̱̻͚̳̳̰̱͋̇̊͊̓̌̓̏̔͘ơ̵̧͉̙̥̞̻̰̖̪̂̐̒͋̽̔ͅṋ̸̡̡̬̼̯̏͒̄͗̚ N̴͕̹͚̙̽͑è̸̖̮͍̜̫̤͇͊͛́̈́̅̉̂͋̂͂̌̊͝͝͝",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100052069925198": {
+        "id": "100052069925198",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100055025005303": {
+        "id": "100055025005303",
+        "name": "Người dùng Facebook",
+        "nickname": "lawerbot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100055770197974": {
+        "id": "100055770197974",
+        "name": "Hoàng Cường",
+        "nickname": "[ . ] • 𝑽.𝑪𝒖̛𝒐̛̀𝒏𝒈 𝑩𝒐𝒕...",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100056992160405": {
+        "id": "100056992160405",
+        "name": "Thiệu Trung Kiên",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100060362055114": {
+        "id": "100060362055114",
+        "name": "Tan Dung Nguyen",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100063615546591": {
+        "id": "100063615546591",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068432539116": {
+        "id": "100068432539116",
+        "name": "Phạm Văn Diện",
+        "nickname": "[ = ] • Bot Messenger",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100069770504095": {
+        "id": "100069770504095",
+        "name": "Thành Nghĩa",
+        "nickname": "lỏ",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100070052890137": {
+        "id": "100070052890137",
+        "name": "Người dùng Facebook",
+        "nickname": "LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100071878844389": {
+        "id": "100071878844389",
+        "name": "Người dùng Facebook",
+        "nickname": "LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100073603952268": {
+        "id": "100073603952268",
+        "name": "Duy Phan",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074599925831": {
+        "id": "100074599925831",
+        "name": "Ngọc Hân",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100075049956094": {
+        "id": "100075049956094",
+        "name": "Nguyen Phuong Anh",
+        "nickname": "[ ~ ] • Bot BbiSar💘",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100075106747517": {
+        "id": "100075106747517",
+        "name": "Ly Khánh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100075717524408": {
+        "id": "100075717524408",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100075724372191": {
+        "id": "100075724372191",
+        "name": "Khánh Ly",
+        "nickname": "lỏ Khánh Ly",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076127723299": {
+        "id": "100076127723299",
+        "name": "Lris Rose",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076379654987": {
+        "id": "100076379654987",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076513221233": {
+        "id": "100076513221233",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076677580462": {
+        "id": "100076677580462",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      }
+    },
+    "adminIDs": [
+      "1628097188",
+      "100004253741257",
+      "100018806512683",
+      "100038379006171",
+      "100056992160405"
+    ],
+    "approvalMode": false,
+    "status": true,
+    "banned": {
+      "status": false,
+      "reason": null,
+      "time": null
+    },
+    "data": {
+      "onlyQTV": false
+    },
+    "avatar": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.15752-9/258544829_1767708556773723_7421557975856461608_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=02e273&_nc_ohc=pcXoIzn70i4AX8cCrhZ&_nc_ht=scontent-ort2-1.xx&oh=03_AVIX0ybJGEUBDdneP82vjSm7OEToQQV7mPIlOZfBvim5KA&oe=62212143"
+  },
+  "4433022786763917": {
+    "id": "4433022786763917",
+    "name": "CFC",
+    "emoji": "🐯",
+    "prefix": null,
+    "language": null,
+    "members": {
+      "100001053495748": {
+        "id": "100001053495748",
+        "name": "T　h　ả　o　 M　ộ　c",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100004236194656": {
+        "id": "100004236194656",
+        "name": "Sang Nguyễn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100004253741257": {
+        "id": "100004253741257",
+        "name": "Phạm Văn Diện",
+        "nickname": "kkkk",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100005770388324": {
+        "id": "100005770388324",
+        "name": "Huỳnh Đăng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100005886273104": {
+        "id": "100005886273104",
+        "name": "Hải Đăng",
+        "nickname": "⟬ # ⟭ ⪼ ⌈𝓑𝓸𝓽 𝓶𝓪𝓭𝓮 𝓫𝔂 𝓙𝓡𝓣⌋",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100005910152578": {
+        "id": "100005910152578",
+        "name": "Phạm Đức Thịnh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100006572772327": {
+        "id": "100006572772327",
+        "name": "Người dùng Facebook",
+        "nickname": "[ / ] • 𝒕𝒐𝒃𝒊",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100008196939764": {
+        "id": "100008196939764",
+        "name": "Quang Thái",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100008858680371": {
+        "id": "100008858680371",
+        "name": "Nguyễn Minh Quân",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100008904706512": {
+        "id": "100008904706512",
+        "name": "Đào Thư",
+        "nickname": "Ayako Harunaa",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009336434661": {
+        "id": "100009336434661",
+        "name": "Đại Bàng",
+        "nickname": "[ & ] • Siesta",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009750009415": {
+        "id": "100009750009415",
+        "name": "Dương Đăng Hoàng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009808517560": {
+        "id": "100009808517560",
+        "name": "Dương Minh Hoàng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100009820004388": {
+        "id": "100009820004388",
+        "name": "Le Anh Ngoc",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100010153933418": {
+        "id": "100010153933418",
+        "name": "Đức Khải",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100010595075949": {
+        "id": "100010595075949",
+        "name": "Nguyễn Cường Thịnh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100011111255977": {
+        "id": "100011111255977",
+        "name": "Umemaru Matsuromao",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100015585661947": {
+        "id": "100015585661947",
+        "name": "Phạm Hoàng Đông",
+        "nickname": "f",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100017608866967": {
+        "id": "100017608866967",
+        "name": "Le Thanh Thien",
+        "nickname": "hi",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100018076418475": {
+        "id": "100018076418475",
+        "name": "Thắng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100022071317975": {
+        "id": "100022071317975",
+        "name": "Người dùng Facebook",
+        "nickname": "[ / ]•Hi",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100028059353349": {
+        "id": "100028059353349",
+        "name": "Bùi Dương",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100028788495839": {
+        "id": "100028788495839",
+        "name": "Ute Son",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100029848123405": {
+        "id": "100029848123405",
+        "name": "Ngô Hoài Huy",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100033478361032": {
+        "id": "100033478361032",
+        "name": "Nguyễn Hải Đăng ꪜ",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100035400259877": {
+        "id": "100035400259877",
+        "name": "Bùi Hoàng",
+        "nickname": "Ryousuke Kichirō",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100035423537449": {
+        "id": "100035423537449",
+        "name": "Đức Anh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100038526232215": {
+        "id": "100038526232215",
+        "name": "Diễm Thúy",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100039136341451": {
+        "id": "100039136341451",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100039673925173": {
+        "id": "100039673925173",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100040031213182": {
+        "id": "100040031213182",
+        "name": "Sang Nguyễn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100043417100615": {
+        "id": "100043417100615",
+        "name": "Hiếu Nguyễn",
+        "nickname": "SpermBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100049098961526": {
+        "id": "100049098961526",
+        "name": "Ngọc Nhi",
+        "nickname": "[ / ] • 𝙊𝙧𝙚𝙤𝘽𝙤𝙩",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100052231519701": {
+        "id": "100052231519701",
+        "name": "Người dùng Facebook",
+        "nickname": "[ + ] • 𝙏𝙮𝙡𝙚𝙧 𝙓𝙞𝙣𝙜 𝙂𝙖́𝙞",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100052650588183": {
+        "id": "100052650588183",
+        "name": "Hoang Anh Tu",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100054004903951": {
+        "id": "100054004903951",
+        "name": "Nhung Hà",
+        "nickname": "⟬ # ⟭ ⪼ ⌈𝓑𝓸𝓽 𝓶𝓪𝓭𝓮 𝓫𝔂 𝓙𝓡𝓣⌋",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100054769571636": {
+        "id": "100054769571636",
+        "name": "Nguyễn Như Thành",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100055400273651": {
+        "id": "100055400273651",
+        "name": "BT Dgw",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100059024147369": {
+        "id": "100059024147369",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100059186042170": {
+        "id": "100059186042170",
+        "name": "Nhật Hằng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100061160525111": {
+        "id": "100061160525111",
+        "name": "Nguyễn Cường Thịnh",
+        "nickname": "1 tay bóp dú 1 tay che trời v2",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100065079409864": {
+        "id": "100065079409864",
+        "name": "Tram Anh Hà Nguyễn",
+        "nickname": "[ ! ] • Made by CatalizCS and SpermLord",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100065477132977": {
+        "id": "100065477132977",
+        "name": "Người dùng Facebook",
+        "nickname": "[ / ] • 𝒕𝒐𝒃𝒊",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068432539116": {
+        "id": "100068432539116",
+        "name": "Phạm Văn Diện",
+        "nickname": "[ = ] • Bot Messenger",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100069316502511": {
+        "id": "100069316502511",
+        "name": "Nguyễn Mạnh Tuấn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100071978304923": {
+        "id": "100071978304923",
+        "name": "Thiên Herus",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072127471709": {
+        "id": "100072127471709",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072145388061": {
+        "id": "100072145388061",
+        "name": "Hoàngg A Tú",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072712980873": {
+        "id": "100072712980873",
+        "name": "Khải",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072733691851": {
+        "id": "100072733691851",
+        "name": "Người dùng Facebook",
+        "nickname": "Siesta",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100072875254893": {
+        "id": "100072875254893",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100073504686971": {
+        "id": "100073504686971",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100073638491857": {
+        "id": "100073638491857",
+        "name": "Người dùng Facebook",
+        "nickname": "/",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100073641086926": {
+        "id": "100073641086926",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074182935164": {
+        "id": "100074182935164",
+        "name": "Người dùng Facebook",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074194021553": {
+        "id": "100074194021553",
+        "name": "Julia Cataleya",
+        "nickname": "[ & ] • Siesta",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100076761519761": {
+        "id": "100076761519761",
+        "name": "Người dùng Facebook",
+        "nickname": "[ - ] • Bot test",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      }
+    },
+    "adminIDs": [
+      "100004253741257",
+      "100008858680371",
+      "100011111255977",
+      "100035400259877"
+    ],
+    "approvalMode": false,
+    "status": true,
+    "banned": {
+      "status": false,
+      "reason": null,
+      "time": null
+    },
+    "data": {
+      "onlyQTV": false
+    },
+    "avatar": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.15752-9/240672004_4332631420162322_5344471076612353441_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=02e273&_nc_ohc=uoZgDL6Z0PsAX_rwTOg&_nc_ht=scontent-ort2-1.xx&oh=03_AVLdYQnWjeEKgLmAQtNQyc9SWC8xymjVidk-mYiV56uTVg&oe=621FD4AB"
+  },
+  "4718183238300183": {
+    "id": "4718183238300183",
+    "name": "Cho Sin 100k Mua Lau Ơ",
+    "emoji": null,
+    "prefix": null,
+    "language": null,
+    "members": {
+      "100004253741257": {
+        "id": "100004253741257",
+        "name": "Phạm Văn Diện",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100006622276498": {
+        "id": "100006622276498",
+        "name": "Hoàng Đỗ Gia Nguyên",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100007887640086": {
+        "id": "100007887640086",
+        "name": "Ngon Nguyen",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100007922737857": {
+        "id": "100007922737857",
+        "name": "Hoàng Văn Cường",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100011560004360": {
+        "id": "100011560004360",
+        "name": "Ma Văn Des",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100012371343281": {
+        "id": "100012371343281",
+        "name": "Việt Lê",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100018806512683": {
+        "id": "100018806512683",
+        "name": "Lê Chính",
+        "nickname": "lươn",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100025536690946": {
+        "id": "100025536690946",
+        "name": "Thắng",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100026573436926": {
+        "id": "100026573436926",
+        "name": "Minh Hiến",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100038379006171": {
+        "id": "100038379006171",
+        "name": "Mạnh’G",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100039208597307": {
+        "id": "100039208597307",
+        "name": "Hoàng Linh",
+        "nickname": "[ - ] • LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100040542224086": {
+        "id": "100040542224086",
+        "name": "Ngọc Nhi",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100041132082006": {
+        "id": "100041132082006",
+        "name": "Lê Đức       Chính             \\٠\\        ⓪⑦❾⑥⓪⑦❻⓪②❽۝",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100041184706360": {
+        "id": "100041184706360",
+        "name": "Phan Huy",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100042965476833": {
+        "id": "100042965476833",
+        "name": "Trần Văn Nhất",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100055770197974": {
+        "id": "100055770197974",
+        "name": "Hoàng Cường",
+        "nickname": "[ . ] • LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100059217348295": {
+        "id": "100059217348295",
+        "name": "Nguyễn Ánh Ngọc Lan",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100068432539116": {
+        "id": "100068432539116",
+        "name": "Phạm Văn Diện",
+        "nickname": "[ = ] • Bot Messenger",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100070082857127": {
+        "id": "100070082857127",
+        "name": "Sen Thanh",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100071702439499": {
+        "id": "100071702439499",
+        "name": "Nguyễn Thế Nam",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100073603952268": {
+        "id": "100073603952268",
+        "name": "Duy Phan",
+        "nickname": "[ - ] • LawerBot",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074474806537": {
+        "id": "100074474806537",
+        "name": "Đồng Văn Toàn",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100074599925831": {
+        "id": "100074599925831",
+        "name": "Ngọc Hân",
+        "nickname": null,
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      },
+      "100075049956094": {
+        "id": "100075049956094",
+        "name": "Nguyen Phuong Anh",
+        "nickname": "[ ~ ] • Bot BbiSar💘",
+        "inGroup": true,
+        "exp": 0,
+        "money": 0
+      }
+    },
+    "adminIDs": [
+      "100006622276498",
+      "100018806512683"
+    ],
+    "approvalMode": false,
+    "status": true,
+    "banned": {
+      "status": false,
+      "reason": null,
+      "time": null
+    },
+    "data": {
+      "onlyQTV": false
+    },
+    "avatar": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.15752-9/272253882_1089300911868602_2063990357697759987_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=02e273&_nc_ohc=PSjC66Q4aPMAX-qINAN&_nc_ht=scontent-ort2-1.xx&oh=03_AVLBGaPrVboc6AApIfL5fSf7UDDMmIUgtuEzBIzha6nEnQ&oe=621D9295"
+  }
+}

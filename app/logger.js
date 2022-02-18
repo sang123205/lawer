@@ -1,1 +1,39 @@
-"use strict";function load(o,r){console.log("[1;37m-> [1;32m[ "+r.toUpperCase()+" ][1;37m <-[0m",o)}function log(o,r){var e=["[1;33m","[1;34m","[1;35m","[1;36m","[1;32m"],m=e[Math.floor(Math.random()*e.length)];console.log("[1;37m-> "+m+"[ "+r.toUpperCase()+" ][1;37m <-[0m",o)}function error(o,r){if(this.type)e=r;else var e="error";console.log("[1;37m-> [1;31m[ "+e.toUpperCase()+" ][1;37m <-[0m",o)}function warn(o,r){if(this.type)e=r;else var e="warning";console.log("[1;37m-> [1;93m[ "+e.toUpperCase()+" ][1;37m <-[0m",o)}module.exports={load:load,log:log,error:error,warn:warn};
+"use strict";
+const chalk = require('chalk');
+function load(data, type) {
+  console.log('\x1b[1;37m-> \x1b[1;32m[ ' + type.toUpperCase() + ' ]\x1b[1;37m <-\x1b[0m', data);
+};
+function log(data, type) {
+  var color = ["\x1b[1;33m", "\x1b[1;34m", "\x1b[1;35m", '\x1b[1;36m', '\x1b[1;32m'];
+  var more = color[Math.floor(Math.random() * color.length)];
+  console.log('\x1b[1;37m-> ' + more + '[ ' + type.toUpperCase() + ' ]\x1b[1;37m <-\x1b[0m', data);
+};
+function error(data, type) {
+  if (!this.type) var type_log = 'error';
+  else var type_log = type;
+  console.log('\x1b[1;37m-> \x1b[1;31m[ ' + type_log.toUpperCase() + ' ]\x1b[1;37m <-\x1b[0m', data);
+}
+function warn(data, type) {
+  if (!this.type) var type_log = 'warning';
+  else var type_log = type;
+  console.log('\x1b[1;37m-> \x1b[1;93m[ ' + type_log.toUpperCase() + ' ]\x1b[1;37m <-\x1b[0m', data);
+}
+function banner(data) {
+	const rdcl = ['blue', 'yellow', 'green', 'red', 'magenta', 'yellowBright', 'blueBright', 'magentaBright']
+	const color = chalk[rdcl[Math.floor(Math.random() * rdcl.length)]]
+	console.log(color(data));
+}
+function loadscripts(data, type) {
+	const rdcl = ['blue', 'yellow', 'green', 'red', 'magenta', 'yellowBright', 'blueBright', 'magentaBright']
+	const color = chalk[rdcl[Math.floor(Math.random() * rdcl.length)]]
+	const color2 = chalk[rdcl[Math.floor(Math.random() * rdcl.length)]]
+	console.log(`[ ${color(type.toUpperCase())} ]` + ' ' + color2(data));
+}
+module.exports = {
+  load,
+  log,
+  error,
+  warn,
+  banner,
+  loadscripts
+}

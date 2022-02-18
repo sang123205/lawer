@@ -1,4 +1,4 @@
 { 
-  "version": "1.0.0",
-  "description": "ra bản chính thức."
+  "version": "1.1.0",
+  "description": "Thêm 1 số tính năng: check tương tác, có thêm các tính năng duyệt box, only cái dmm, mã hóa fbstate"
 }

@@ -1,0 +1,45 @@
+{
+    "scripts": [
+        {
+            "name": "help",
+            "configCommand": {
+                "autoUnsend": true,
+                "delayUnsend": 55
+            }
+        },
+        {
+            "name": "banking",
+            "configCommand": {
+                "laisuat": 0.005
+            }
+        },
+        {
+            "name": "daily",
+            "configCommand": {
+                "rewardDay1": {
+                    "coin": 100,
+                    "exp": 10
+                }
+            }
+        },
+        {
+            "name": "fb",
+            "configCommand": {
+                "API_KEY": "KeyTest"
+            }
+        },
+        {
+            "name": "pokemon",
+            "configCommand": {
+                "APIKEY": ""
+            }
+        },
+        {
+            "name": "soundcloud",
+            "configCommand": {
+                "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+            }
+        }
+    ],
+    "events": []
+}
